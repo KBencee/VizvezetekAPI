@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\controllers\\helycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\controllers\\helycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\controllers\\szerelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\controllers\\szerelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\data\\szerelodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\data\\szerelodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\models\\hely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\models\\hely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\models\\munkalap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\models\\munkalap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\models\\szerelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\models\\szerelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\data\\szerelodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\data\\szerelodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\models\\hely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\models\\hely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|c:\\users\\kiss.bence\\documents\\backend\\vizvezetekapi\\vizvezetekwebapi\\vizvezetekwebapi\\models\\szerelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5267FD-CDE4-4238-AEA5-7B22460A8F85}|VizvezetekWebAPI\\VizvezetekWebAPI.csproj|solutionrelative:vizvezetekwebapi\\models\\szerelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HelyController.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Controllers\\HelyController.cs",
+              "RelativeDocumentMoniker": "VizvezetekWebAPI\\Controllers\\HelyController.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Controllers\\HelyController.cs",
+              "RelativeToolTip": "VizvezetekWebAPI\\Controllers\\HelyController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:04:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SzereloController.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Controllers\\SzereloController.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Controllers\\SzereloController.cs",
               "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Controllers\\SzereloController.cs",
               "RelativeToolTip": "VizvezetekWebAPI\\Controllers\\SzereloController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T07:50:19.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SzereloDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Data\\SzereloDbContext.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Data\\SzereloDbContext.cs",
@@ -63,38 +80,37 @@
               "RelativeToolTip": "VizvezetekWebAPI\\Data\\SzereloDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:23:18.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:23:18.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Munkalap.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Models\\Munkalap.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Models\\Munkalap.cs",
               "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Models\\Munkalap.cs",
               "RelativeToolTip": "VizvezetekWebAPI\\Models\\Munkalap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T07:13:30.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Hely.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Models\\Hely.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Models\\Hely.cs",
               "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Models\\Hely.cs",
               "RelativeToolTip": "VizvezetekWebAPI\\Models\\Hely.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T07:13:15.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Szerelo.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Models\\Szerelo.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Models\\Szerelo.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\appsettings.json",
@@ -115,12 +131,11 @@
               "RelativeToolTip": "VizvezetekWebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-04T07:10:48.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:10:48.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\VizvezetekAPI\\VizvezetekWebAPI\\VizvezetekWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "VizvezetekWebAPI\\Program.cs",
@@ -128,8 +143,7 @@
               "RelativeToolTip": "VizvezetekWebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:10:46.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:10:46.034Z"
             }
           ]
         }

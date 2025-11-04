@@ -1,5 +1,114 @@
 [
   {
+    "ContainingType": "VizvezetekWebAPI.Controllers.HelyController",
+    "Method": "GetHelyek",
+    "RelativePath": "api/Hely",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[VizvezetekWebAPI.Models.Hely, VizvezetekWebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VizvezetekWebAPI.Controllers.HelyController",
+    "Method": "CreateHely",
+    "RelativePath": "api/Hely",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hely",
+        "Type": "VizvezetekWebAPI.Models.Hely",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VizvezetekWebAPI.Models.Hely",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VizvezetekWebAPI.Controllers.HelyController",
+    "Method": "GetHely",
+    "RelativePath": "api/Hely/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VizvezetekWebAPI.Models.Hely",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VizvezetekWebAPI.Controllers.HelyController",
+    "Method": "DeleteHely",
+    "RelativePath": "api/Hely/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VizvezetekWebAPI.Controllers.HelyController",
+    "Method": "UpdateHely",
+    "RelativePath": "api/Hely/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedHely",
+        "Type": "VizvezetekWebAPI.Models.Hely",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "VizvezetekWebAPI.Controllers.SzereloController",
     "Method": "GetSzerelok",
     "RelativePath": "api/Szerelo",

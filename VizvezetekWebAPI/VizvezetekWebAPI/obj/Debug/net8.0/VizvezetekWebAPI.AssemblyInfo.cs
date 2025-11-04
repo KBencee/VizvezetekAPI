@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VizvezetekWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c4a3d45c3ae08458245b906c3107d3e7732ade")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a3f187c11eb06e7ef88b16fb7a654b8cd2628c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("VizvezetekWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VizvezetekWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
